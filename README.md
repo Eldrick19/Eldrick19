@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 Solutions Eng at GitHub
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/eldrick-wega/) 
+- 🔭 Solutions Engineer at GitHub
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/eldrick-wega/)
+- [Personal Website](https://eldrick19.github.io/site/)
 
 <!--
 **Eldrick19/Eldrick19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
